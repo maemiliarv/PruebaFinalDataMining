@@ -50,7 +50,7 @@ Resultados destacados
 Mejor modelo: XGBoost con AUC-ROC de 0.92 y F1-score de 0.80.
 Variables más importantes: TotalCharges, Tenure, MonthlyCharges.
 Recomendaciones de negocio: campañas personalizadas a clientes con churn_prob > 0.7.
-💾
+
 Reproducibilidad
 Clonar el repositorio:
 git clone https://github.com/tu-usuario/tu-repo-churn.git
