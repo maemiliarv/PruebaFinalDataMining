@@ -53,7 +53,7 @@ Recomendaciones de negocio: campañas personalizadas a clientes con churn_prob >
 
 Reproducibilidad
 Clonar el repositorio:
-git clone https://github.com/tu-usuario/tu-repo-churn.git
+git clone https://github.com/maemiliarv/PruebaFinalDataMining
 cd tu-repo-churn
 Instalar dependencias:
 pip install -r requirements.txt
